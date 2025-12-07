@@ -79,8 +79,12 @@ Merge para a branch principal (main):
 Via Pull Request
 ```
 
+
 ## 🧪| Demonstrações e Funcionamento
 
+<img width="1022" height="577" alt="IMG 2 IFCE" src="https://github.com/user-attachments/assets/0625e536-a33c-478f-b648-8c85010649ba" />
+
+<img width="675" height="500" alt="IMG 1" src="https://github.com/user-attachments/assets/06bb263e-9e52-4b92-9408-cd64ea3c0116" />
 
 ## 🎯| Conclusão
 
