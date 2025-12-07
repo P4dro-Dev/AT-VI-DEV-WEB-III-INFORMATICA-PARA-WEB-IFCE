@@ -1,2 +1,5 @@
-# AT-VI-DEV-WEB-III-INFORMATICA-PARA-WEB-IFCE
-Projeto de validação de formulário usando DOM em JavaScript, aplicando regras para nome, e-mail e telefone, exibindo erros em tempo real e impedindo envios inválidos. Segue todas as etapas da atividade, incluindo criação da branch DOM e merge final.
+# Projeto DOM - Validação de Formulário
+
+Este projeto implementa validação de formulário utilizando manipulação do DOM com JavaScript.  
+Inclui validações de nome, e-mail e telefone seguindo regras específicas e exibe mensagens de erro dinâmicas.
+
