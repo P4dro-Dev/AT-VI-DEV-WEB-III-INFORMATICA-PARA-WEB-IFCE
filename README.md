@@ -6,6 +6,7 @@ O trabalho segue exatamente todas as etapas solicitadas na atividade, incluindo 
 
 ## 🚀 Funcionalidades Implementadas
 
+```
 ✔️ Validação do campo Nome
 
 Mínimo de 5 caracteres
@@ -31,6 +32,7 @@ Bloqueia envio caso esteja incompleto ou com tamanho incorreto
 Nenhum campo pode ser enviado sem preenchimento
 
 O aviso de erro é exibido dinamicamente no DOM
+```
 
 ## 🧩 Estrutura do Projeto
 
