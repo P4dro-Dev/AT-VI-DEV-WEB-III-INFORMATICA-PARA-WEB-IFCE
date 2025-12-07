@@ -79,7 +79,6 @@ Via Pull Request
 
 ## 🧪| Demonstrações e Funcionamento
 
-## ▶️| Validações aplicadas dinamicamente
 
 ## 🎯| Conclusão
 
